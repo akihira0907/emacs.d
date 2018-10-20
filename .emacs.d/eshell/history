@@ -1,0 +1,103 @@
+man printf
+man sleep
+pwd
+cd unisys/2nd/
+ll
+clear
+
+ls
+less aaa.c 
+cd
+cd compiler/
+ll
+ls
+man eshell
+cd tmp/
+ll
+ls
+gcc hoge.c
+./a.out 
+man sscanf
+cd unisys/
+ls
+ls
+man fgets
+ls
+gcc prompt.c -o prompt
+gcc prompt.c -o prompt
+gcc prompt.c -o prompt
+./prompt 
+./prompt 
+gcc prompt.c -o prompt
+./prompt 
+./prompt 
+gcc prompt.c -o prompt
+./prompt 
+gcc prompt.c -o prompt
+./prompt 
+./prompt 
+./prompt 
+./prompt 
+gcc prompt.c -o prompt
+./prompt 
+./prompt 
+cd compiler/
+ls
+ocamlc
+ocaml
+exit
+man 3 errno
+firefox
+cd lisp/
+ll
+ls
+clear
+
+less 1st.txt 
+gcl
+cd lisp/
+gcl
+man printf
+cd compiler/
+gcl
+gcl
+gcc -o kadai2 kadai2.c 
+./kadai2 
+exit
+exit
+cd lisp/
+ls
+gcl
+exit
+gcl
+cd lisp/
+gcl
+gcl
+gcl
+cd lisp/
+gcl
+python3
+gcl
+exit
+gcl
+pwd
+cd lisp/
+ll
+clera
+clear
+
+ls
+reset
+ll
+clear
+
+gcl
+cd lisp/
+gcl
+wget http://www.nak.ics.keio.ac.jp/class/lisp/queen.lsp
+gcl
+cd lisp/
+ls
+clear
+
+gcl
